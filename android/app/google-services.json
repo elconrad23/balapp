@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625583687267",
+    "project_id": "nbaafrica",
+    "storage_bucket": "nbaafrica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625583687267:android:1faa294f636302e71b1a56",
+        "android_client_info": {
+          "package_name": "com.cocotech.bal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHDjqLCtJAg4crrtCPcDIlKMsuoINihg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625583687267:android:9dbf159ca94413431b1a56",
+        "android_client_info": {
+          "package_name": "com.example.nbaafrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHDjqLCtJAg4crrtCPcDIlKMsuoINihg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
